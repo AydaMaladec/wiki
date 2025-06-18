@@ -2,7 +2,7 @@ import React from 'react'
 
 export default {
   logo: (
-    <img src="/global/logoe.png" alt="Логотип" width="23" height="23" />
+    <img src="/logoe.png" alt="Логотип" width="23" height="23" />
   ),
   project: {
     link: 'https://github.com/твій-юзер/твій-репо',
