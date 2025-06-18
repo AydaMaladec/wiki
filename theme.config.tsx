@@ -5,7 +5,7 @@ export default {
     <img
       src="/logoe.png"
       alt="Логотип"
-      style={{ width: '200px', height: '200px' }}
+      style={{ width: '100px', height: '100px' }}
     />
   )
 }
