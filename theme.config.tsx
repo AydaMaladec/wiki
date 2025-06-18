@@ -2,13 +2,10 @@ import React from 'react'
 
 export default {
   logo: (
-    <img src="/logoe.png" alt="Логотип" width="23" height="23" />
-  ),
-  project: {
-    link: 'https://github.com/твій-юзер/твій-репо',
-  },
-  docsRepositoryBase: 'https://github.com/твій-юзер/твій-репо/blob/main',
-  footer: {
-    text: '',
-  },
+    <img
+      src="/logoe.png"
+      alt="Логотип"
+      style={{ width: '200px', height: '200px' }}
+    />
+  )
 }
